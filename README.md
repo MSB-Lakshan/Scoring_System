@@ -119,6 +119,7 @@ Displays all competitors with their full details, calculated level, and score su
 - Name and score validations with user-friendly error prompts
 
 ---
+[📄 View Full Documentation (Word)](docs/Report.docx)
 
 ## 🙏 Thank You
 
