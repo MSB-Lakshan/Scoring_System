@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"Part_03","c":"CompetitorList","l":"CompetitorList()","u":"%3Cinit%3E()"},{"p":"Part_03","c":"CompetitorList","l":"findCompetitorByID(int)"},{"p":"Part_03","c":"CompetitorList","l":"generateReport()"},{"p":"Part_03","c":"CompetitorList","l":"loadFromDatabase()"}];updateSearchResults();
